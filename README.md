@@ -1,8 +1,9 @@
 #  Gabriela Pires
 
-**`Desenvolvedora de Software`**
+**`Estudante em Tempo Integral`**
 
-Sou uma desenvolvedora de software com curiosidade em aprender e melhorar. Eu me concentro em escrever código limpo e reutilizável, gosto de colaborar e compartilhar conhecimento com meus amigos. Também gosto de criar minhas próprias soluções para os desafios do dia a dia. Além disso, estou comprometida em aprimorar minhas habilidades no LeetCode para refinar minhas habilidades de resolução de problemas.
+Estou animada para aprender e crescer como programadora! Estou focada em escrever código limpo e reutilizável. Gosto de colaborar e compartilhar o que aprendo com meus amigos. É muito divertido criar minhas própias soluções para os desafios do dia a dia. Também estou comprometida em aprimorar minhas habilidades de resoluções de problemas.
+
 
 ---
 
