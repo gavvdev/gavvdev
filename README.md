@@ -13,7 +13,7 @@
 
 ### about me
 
-full-stack/backend developer  ➧ 20y ➧ she/her
+cybersecurity/backend ➧ 20y ➧ she/her
 
 I'm passionate about technology and software development. Currently, I'm focused on improving my skills in backend and full-stack development, always striving to write clean, reusable, and maintainable code.
 
