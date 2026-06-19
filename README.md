@@ -2,8 +2,8 @@
 <tr>
 
   <td width="50%"  align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF0000&width=600&height=100&lines=Hello%2C+I'm+Gabriela!;Cybersecurity+%7C+Backend;Python+%7C+JavaScript;Java+(learning+%3E_%3C)" />
-<img src="https://raw.githubusercontent.com/gavvdev/gavvdev/main/download.jpg" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFEB48&width=600&height=100&lines=Hello%2C+I'm+Gabriela!;Cybersecurity+%7C+Backend;Python+%7C+JavaScript;Java+(learning+%3E_%3C)" />
+<img src="https://raw.githubusercontent.com/gavvdev/gavvdev/main/computer.gif" width="100%" />
  
 </td>
 <td height="420" >
